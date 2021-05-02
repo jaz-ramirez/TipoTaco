@@ -35,8 +35,6 @@
                 $D+=1;
                 break;
         }
-        echo $respuestas[$i];
-        echo "<br>";
     }
     //Le asigna el tipo de taco de acuerdo a las respuestas
     $tipoTaco =["A" => "Taco al pastor",
